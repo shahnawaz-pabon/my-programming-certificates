@@ -8,8 +8,11 @@
 # Table of Contents
 
 - [Bash](#bash)
+
   - [Introduction to Shell](#introduction-to-shell)
   - [Introduction to Bash Scripting](#introduction-to-bash-scripting)
+
+- [Database Design](#database-design)
 
 # Bash
 
@@ -33,6 +36,18 @@
 
 <a href="files/IntroductionToBashScripting.pdf">
   <img src="https://drive.google.com/uc?id=1efhKqENscOblXeNf-r6o8EvDhn0zH_Go" alt="introduction-to-shell" width="300px"/>
+</a>
+
+<br>
+
+# Database Design
+
+|    **_Organization_**     |             **_Credential ID_**              |                    **_Link_**                    | **_Completed On_** |
+| :-----------------------: | :------------------------------------------: | :----------------------------------------------: | :----------------: |
+| https://www.datacamp.com/ | **a4414637e4b50bc5af4e8274b890c439bd4e9f26** | https://www.datacamp.com/courses/database-design |  **FEB 21, 2022**  |
+
+<a href="files/DatabaseDesign.pdf">
+  <img src="https://drive.google.com/uc?id=1FNEQnsH28TVwxqwGUtPu2rXj7b1QvwSf" alt="database-design" width="300px"/>
 </a>
 
 <br>

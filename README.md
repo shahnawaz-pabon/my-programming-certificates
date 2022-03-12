@@ -7,14 +7,10 @@
 
 # Table of Contents
 
-- [Bash](#bash)
-
-  - [Introduction to Shell](#introduction-to-shell)
-  - [Introduction to Bash Scripting](#introduction-to-bash-scripting)
-
+- [Introduction to Shell](#introduction-to-shell)
+- [Introduction to Bash Scripting](#introduction-to-bash-scripting)
 - [Database Design](#database-design)
-
-# Bash
+- [Object-Oriented Programming in Python](#object-oriented-programming-in-python)
 
 ## Introduction to Shell
 
@@ -40,7 +36,7 @@
 
 <br>
 
-# Database Design
+## Database Design
 
 |    **_Organization_**     |             **_Credential ID_**              |                    **_Link_**                    | **_Completed On_** |
 | :-----------------------: | :------------------------------------------: | :----------------------------------------------: | :----------------: |
@@ -48,6 +44,18 @@
 
 <a href="files/DatabaseDesign.pdf">
   <img src="https://drive.google.com/uc?id=1FNEQnsH28TVwxqwGUtPu2rXj7b1QvwSf" alt="database-design" width="300px"/>
+</a>
+
+<br>
+
+## Object-Oriented Programming in Python
+
+|    **_Organization_**     |             **_Credential ID_**              |                               **_Link_**                               | **_Completed On_** |
+| :-----------------------: | :------------------------------------------: | :--------------------------------------------------------------------: | :----------------: |
+| https://www.datacamp.com/ | **6a3431418c2c5769c0aa13cad0f81d59adee567e** | https://www.datacamp.com/courses/object-oriented-programming-in-python |  **MAR 12, 2022**  |
+
+<a href="files/OOPInPython.pdf">
+  <img src="https://drive.google.com/uc?id=1LeUvQP9HSeCrbnABSlJoTpSkCDQWPUQW" alt="oop-in-python" width="300px"/>
 </a>
 
 <br>

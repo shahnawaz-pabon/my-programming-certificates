@@ -11,6 +11,7 @@
 - [Introduction to Bash Scripting](#introduction-to-bash-scripting)
 - [Database Design](#database-design)
 - [Object-Oriented Programming in Python](#object-oriented-programming-in-python)
+- [Intermediate Python](#intermediate-python)
 
 ## Introduction to Shell
 
@@ -56,6 +57,18 @@
 
 <a href="files/OOPInPython.pdf">
   <img src="https://drive.google.com/uc?id=1LeUvQP9HSeCrbnABSlJoTpSkCDQWPUQW" alt="oop-in-python" width="300px"/>
+</a>
+
+<br>
+
+## Intermediate Python
+
+|    **_Organization_**     |             **_Credential ID_**              |                      **_Link_**                      | **_Completed On_** |
+| :-----------------------: | :------------------------------------------: | :--------------------------------------------------: | :----------------: |
+| https://www.datacamp.com/ | **3bff875c289b1c987f985d408284cded542618b1** | https://www.datacamp.com/courses/intermediate-python |  **MAR 17, 2022**  |
+
+<a href="files/IntermediatePython.pdf">
+  <img src="https://drive.google.com/uc?id=1szeRhgP7gQL3XfhlgTp5qmAR8rbYDIHE" alt="intermediate-python" width="300px"/>
 </a>
 
 <br>

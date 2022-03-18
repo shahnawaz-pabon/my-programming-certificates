@@ -12,6 +12,7 @@
 - [Database Design](#database-design)
 - [Object-Oriented Programming in Python](#object-oriented-programming-in-python)
 - [Intermediate Python](#intermediate-python)
+- [Introduction to Relational Databases in SQL](#introduction-to-relational-databases-in-sql)
 
 ## Introduction to Shell
 
@@ -69,6 +70,18 @@
 
 <a href="files/IntermediatePython.pdf">
   <img src="https://drive.google.com/uc?id=1szeRhgP7gQL3XfhlgTp5qmAR8rbYDIHE" alt="intermediate-python" width="300px"/>
+</a>
+
+<br>
+
+## Introduction to Relational Databases in SQL
+
+|    **_Organization_**     |             **_Credential ID_**              |                                  **_Link_**                                  | **_Completed On_** |
+| :-----------------------: | :------------------------------------------: | :--------------------------------------------------------------------------: | :----------------: |
+| https://www.datacamp.com/ | **02a0255a466dc25ff0921d492736725ad8741d97** | https://www.datacamp.com/courses/introduction-to-relational-databases-in-sql |  **MAR 18, 2022**  |
+
+<a href="files/IntroToRDInSql.pdf">
+  <img src="https://drive.google.com/uc?id=1RB51wDscKJMMX3BsetCW1KcQ_-B5S48H" alt="intro-to-rd-in-sql" width="300px"/>
 </a>
 
 <br>

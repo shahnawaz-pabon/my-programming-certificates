@@ -13,6 +13,7 @@
 - [Object-Oriented Programming in Python](#object-oriented-programming-in-python)
 - [Intermediate Python](#intermediate-python)
 - [Introduction to Relational Databases in SQL](#introduction-to-relational-databases-in-sql)
+- [Javascript Algorithms and Data Structures](#javascript-algorithms-and-data-structures)
 
 ## Introduction to Shell
 
@@ -85,3 +86,13 @@
 </a>
 
 <br>
+
+## Javascript Algorithms and Data Structures
+
+|      **_Organization_**       |                                                 **_Credential ID_**                                                 |                                  **_Link_**                                   | **_Completed On_** |
+| :---------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :----------------: |
+| https://www.freecodecamp.org/ | **[Online Copy](https://freecodecamp.org/certification/shahnawaz-pabon/javascript-algorithms-and-data-structures)** | https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/ |  **JUL 17, 2023**  |
+
+<a href="files/javascript-algorithms-and-data-structures.pdf">
+  <img src="https://drive.google.com/uc?id=1ksmXnYV1NQy0-BRUxNL1Cgz0VJA_VLPF" alt="javascript-algorithms-and-data-structures" width="300px"/>
+</a>

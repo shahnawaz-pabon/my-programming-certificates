@@ -96,3 +96,15 @@
 <a href="files/javascript-algorithms-and-data-structures.pdf">
   <img src="https://drive.google.com/uc?id=1ksmXnYV1NQy0-BRUxNL1Cgz0VJA_VLPF" alt="javascript-algorithms-and-data-structures" width="300px"/>
 </a>
+
+<br>
+
+## Back End Development and APIs
+
+|      **_Organization_**       |                                                 **_Credential ID_**                                                 |                                  **_Link_**                                   | **_Completed On_** |
+| :---------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :----------------: |
+| https://www.freecodecamp.org/ | **[Online Copy](https://freecodecamp.org/certification/shahnawaz-pabon/back-end-development-and-apis)** | https://www.freecodecamp.org/learn/back-end-development-and-apis/ |  **OCT 25, 2023**  |
+
+<a href="files/back-end-development-and-apis.pdf">
+  <img src="https://drive.google.com/uc?id=1h6Dfn2cTMJwB3o3nJOJsP4q5bBrr286Y" alt="back-end-development-and-apis" width="300px"/>
+</a>

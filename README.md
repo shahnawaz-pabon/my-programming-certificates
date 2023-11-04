@@ -14,6 +14,7 @@
 - [Intermediate Python](#intermediate-python)
 - [Introduction to Relational Databases in SQL](#introduction-to-relational-databases-in-sql)
 - [Javascript Algorithms and Data Structures](#javascript-algorithms-and-data-structures)
+- [Back End Development and APIs](#back-end-development-and-apis)
 
 ## Introduction to Shell
 
@@ -101,8 +102,8 @@
 
 ## Back End Development and APIs
 
-|      **_Organization_**       |                                                 **_Credential ID_**                                                 |                                  **_Link_**                                   | **_Completed On_** |
-| :---------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :----------------: |
+|      **_Organization_**       |                                           **_Credential ID_**                                           |                            **_Link_**                             | **_Completed On_** |
+| :---------------------------: | :-----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------: | :----------------: |
 | https://www.freecodecamp.org/ | **[Online Copy](https://freecodecamp.org/certification/shahnawaz-pabon/back-end-development-and-apis)** | https://www.freecodecamp.org/learn/back-end-development-and-apis/ |  **OCT 25, 2023**  |
 
 <a href="files/back-end-development-and-apis.pdf">
